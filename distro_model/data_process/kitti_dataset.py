@@ -1,15 +1,3 @@
-"""
-# -*- coding: utf-8 -*-
------------------------------------------------------------------------------------
-# Author: Nguyen Mau Dung
-# DoC: 2020.07.05
-# email: nguyenmaudung93.kstn@gmail.com
------------------------------------------------------------------------------------
-# Description: This script for the KITTI dataset
-
-# Refer: https://github.com/ghimiredhikura/Complex-YOLOv3
-"""
-
 import sys
 import os
 import random

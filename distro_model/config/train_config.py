@@ -16,7 +16,7 @@ def parse_dataloader_configs():
     # Path to KITTI dataset (hardcoded default)
     parser.add_argument(
         '--dataset-dir', type=str,
-        default='/workspace/DistroPoint/kitti',
+        default='/workspace/DistroPointclouds/kitti',
         help='Full path to the KITTI dataset directory'
     )
 

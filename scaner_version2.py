@@ -431,9 +431,9 @@ if __name__ == "__main__":
 
     os.makedirs("scan_results", exist_ok=True)
 
-    bin_dir = './sample_data/KITTI/00/velodyne/'
+    bin_dir = './sample_data/'
     bin_db = kitti_vlp_database(bin_dir)
-    ped_json_dir = './sample_data/KITTI/00/velodyne/'
+    ped_json_dir = './sample_data/'
 
     metadata = []
 
